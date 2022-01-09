@@ -1,0 +1,1391 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AllAlbums>
+  <Album>
+    <AlbumId>1</AlbumId>
+    <Title>For Those About To Rock We Salute You</Title>
+  </Album>
+  <Album>
+    <AlbumId>2</AlbumId>
+    <Title>Balls to the Wall</Title>
+  </Album>
+  <Album>
+    <AlbumId>3</AlbumId>
+    <Title>Restless and Wild</Title>
+  </Album>
+  <Album>
+    <AlbumId>4</AlbumId>
+    <Title>Let There Be Rock</Title>
+  </Album>
+  <Album>
+    <AlbumId>5</AlbumId>
+    <Title>Big Ones</Title>
+  </Album>
+  <Album>
+    <AlbumId>6</AlbumId>
+    <Title>Jagged Little Pill</Title>
+  </Album>
+  <Album>
+    <AlbumId>7</AlbumId>
+    <Title>Facelift</Title>
+  </Album>
+  <Album>
+    <AlbumId>8</AlbumId>
+    <Title>Warner 25 Anos</Title>
+  </Album>
+  <Album>
+    <AlbumId>9</AlbumId>
+    <Title>Plays Metallica By Four Cellos</Title>
+  </Album>
+  <Album>
+    <AlbumId>10</AlbumId>
+    <Title>Audioslave</Title>
+  </Album>
+  <Album>
+    <AlbumId>11</AlbumId>
+    <Title>Out Of Exile</Title>
+  </Album>
+  <Album>
+    <AlbumId>12</AlbumId>
+    <Title>BackBeat Soundtrack</Title>
+  </Album>
+  <Album>
+    <AlbumId>13</AlbumId>
+    <Title>The Best Of Billy Cobham</Title>
+  </Album>
+  <Album>
+    <AlbumId>14</AlbumId>
+    <Title>Alcohol Fueled Brewtality Live! [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>15</AlbumId>
+    <Title>Alcohol Fueled Brewtality Live! [Disc 2]</Title>
+  </Album>
+  <Album>
+    <AlbumId>16</AlbumId>
+    <Title>Black Sabbath</Title>
+  </Album>
+  <Album>
+    <AlbumId>17</AlbumId>
+    <Title>Black Sabbath Vol. 4 (Remaster)</Title>
+  </Album>
+  <Album>
+    <AlbumId>18</AlbumId>
+    <Title>Body Count</Title>
+  </Album>
+  <Album>
+    <AlbumId>19</AlbumId>
+    <Title>Chemical Wedding</Title>
+  </Album>
+  <Album>
+    <AlbumId>20</AlbumId>
+    <Title>The Best Of Buddy Guy - The Millenium Collection</Title>
+  </Album>
+  <Album>
+    <AlbumId>21</AlbumId>
+    <Title>Prenda Minha</Title>
+  </Album>
+  <Album>
+    <AlbumId>22</AlbumId>
+    <Title>Sozinho Remix Ao Vivo</Title>
+  </Album>
+  <Album>
+    <AlbumId>23</AlbumId>
+    <Title>Minha Historia</Title>
+  </Album>
+  <Album>
+    <AlbumId>24</AlbumId>
+    <Title>Afrociberdelia</Title>
+  </Album>
+  <Album>
+    <AlbumId>25</AlbumId>
+    <Title>Da Lama Ao Caos</Title>
+  </Album>
+  <Album>
+    <AlbumId>26</AlbumId>
+    <Title>Acústico MTV [Live]</Title>
+  </Album>
+  <Album>
+    <AlbumId>27</AlbumId>
+    <Title>Cidade Negra - Hits</Title>
+  </Album>
+  <Album>
+    <AlbumId>28</AlbumId>
+    <Title>Na Pista</Title>
+  </Album>
+  <Album>
+    <AlbumId>29</AlbumId>
+    <Title>Axé Bahia 2001</Title>
+  </Album>
+  <Album>
+    <AlbumId>30</AlbumId>
+    <Title>BBC Sessions [Disc 1] [Live]</Title>
+  </Album>
+  <Album>
+    <AlbumId>31</AlbumId>
+    <Title>Bongo Fury</Title>
+  </Album>
+  <Album>
+    <AlbumId>32</AlbumId>
+    <Title>Carnaval 2001</Title>
+  </Album>
+  <Album>
+    <AlbumId>33</AlbumId>
+    <Title>Chill: Brazil (Disc 1)</Title>
+  </Album>
+  <Album>
+    <AlbumId>34</AlbumId>
+    <Title>Chill: Brazil (Disc 2)</Title>
+  </Album>
+  <Album>
+    <AlbumId>35</AlbumId>
+    <Title>Garage Inc. (Disc 1)</Title>
+  </Album>
+  <Album>
+    <AlbumId>36</AlbumId>
+    <Title>Greatest Hits II</Title>
+  </Album>
+  <Album>
+    <AlbumId>37</AlbumId>
+    <Title>Greatest Kiss</Title>
+  </Album>
+  <Album>
+    <AlbumId>38</AlbumId>
+    <Title>Heart of the Night</Title>
+  </Album>
+  <Album>
+    <AlbumId>39</AlbumId>
+    <Title>International Superhits</Title>
+  </Album>
+  <Album>
+    <AlbumId>40</AlbumId>
+    <Title>Into The Light</Title>
+  </Album>
+  <Album>
+    <AlbumId>41</AlbumId>
+    <Title>Meus Momentos</Title>
+  </Album>
+  <Album>
+    <AlbumId>42</AlbumId>
+    <Title>Minha História</Title>
+  </Album>
+  <Album>
+    <AlbumId>43</AlbumId>
+    <Title>MK III The Final Concerts [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>44</AlbumId>
+    <Title>Physical Graffiti [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>45</AlbumId>
+    <Title>Sambas De Enredo 2001</Title>
+  </Album>
+  <Album>
+    <AlbumId>46</AlbumId>
+    <Title>Supernatural</Title>
+  </Album>
+  <Album>
+    <AlbumId>47</AlbumId>
+    <Title>The Best of Ed Motta</Title>
+  </Album>
+  <Album>
+    <AlbumId>48</AlbumId>
+    <Title>The Essential Miles Davis [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>49</AlbumId>
+    <Title>The Essential Miles Davis [Disc 2]</Title>
+  </Album>
+  <Album>
+    <AlbumId>50</AlbumId>
+    <Title>The Final Concerts (Disc 2)</Title>
+  </Album>
+  <Album>
+    <AlbumId>51</AlbumId>
+    <Title>Up An' Atom</Title>
+  </Album>
+  <Album>
+    <AlbumId>52</AlbumId>
+    <Title>Vinícius De Moraes - Sem Limite</Title>
+  </Album>
+  <Album>
+    <AlbumId>53</AlbumId>
+    <Title>Vozes do MPB</Title>
+  </Album>
+  <Album>
+    <AlbumId>54</AlbumId>
+    <Title>Chronicle, Vol. 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>55</AlbumId>
+    <Title>Chronicle, Vol. 2</Title>
+  </Album>
+  <Album>
+    <AlbumId>56</AlbumId>
+    <Title>Cássia Eller - Coleção Sem Limite [Disc 2]</Title>
+  </Album>
+  <Album>
+    <AlbumId>57</AlbumId>
+    <Title>Cássia Eller - Sem Limite [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>58</AlbumId>
+    <Title>Come Taste The Band</Title>
+  </Album>
+  <Album>
+    <AlbumId>59</AlbumId>
+    <Title>Deep Purple In Rock</Title>
+  </Album>
+  <Album>
+    <AlbumId>60</AlbumId>
+    <Title>Fireball</Title>
+  </Album>
+  <Album>
+    <AlbumId>61</AlbumId>
+    <Title>Knocking at Your Back Door: The Best Of Deep Purple in the 80's</Title>
+  </Album>
+  <Album>
+    <AlbumId>62</AlbumId>
+    <Title>Machine Head</Title>
+  </Album>
+  <Album>
+    <AlbumId>63</AlbumId>
+    <Title>Purpendicular</Title>
+  </Album>
+  <Album>
+    <AlbumId>64</AlbumId>
+    <Title>Slaves And Masters</Title>
+  </Album>
+  <Album>
+    <AlbumId>65</AlbumId>
+    <Title>Stormbringer</Title>
+  </Album>
+  <Album>
+    <AlbumId>66</AlbumId>
+    <Title>The Battle Rages On</Title>
+  </Album>
+  <Album>
+    <AlbumId>67</AlbumId>
+    <Title>Vault: Def Leppard's Greatest Hits</Title>
+  </Album>
+  <Album>
+    <AlbumId>68</AlbumId>
+    <Title>Outbreak</Title>
+  </Album>
+  <Album>
+    <AlbumId>69</AlbumId>
+    <Title>Djavan Ao Vivo - Vol. 02</Title>
+  </Album>
+  <Album>
+    <AlbumId>70</AlbumId>
+    <Title>Djavan Ao Vivo - Vol. 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>71</AlbumId>
+    <Title>Elis Regina-Minha História</Title>
+  </Album>
+  <Album>
+    <AlbumId>72</AlbumId>
+    <Title>The Cream Of Clapton</Title>
+  </Album>
+  <Album>
+    <AlbumId>73</AlbumId>
+    <Title>Unplugged</Title>
+  </Album>
+  <Album>
+    <AlbumId>74</AlbumId>
+    <Title>Album Of The Year</Title>
+  </Album>
+  <Album>
+    <AlbumId>75</AlbumId>
+    <Title>Angel Dust</Title>
+  </Album>
+  <Album>
+    <AlbumId>76</AlbumId>
+    <Title>King For A Day Fool For A Lifetime</Title>
+  </Album>
+  <Album>
+    <AlbumId>77</AlbumId>
+    <Title>The Real Thing</Title>
+  </Album>
+  <Album>
+    <AlbumId>78</AlbumId>
+    <Title>Deixa Entrar</Title>
+  </Album>
+  <Album>
+    <AlbumId>79</AlbumId>
+    <Title>In Your Honor [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>80</AlbumId>
+    <Title>In Your Honor [Disc 2]</Title>
+  </Album>
+  <Album>
+    <AlbumId>81</AlbumId>
+    <Title>One By One</Title>
+  </Album>
+  <Album>
+    <AlbumId>82</AlbumId>
+    <Title>The Colour And The Shape</Title>
+  </Album>
+  <Album>
+    <AlbumId>83</AlbumId>
+    <Title>My Way: The Best Of Frank Sinatra [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>84</AlbumId>
+    <Title>Roda De Funk</Title>
+  </Album>
+  <Album>
+    <AlbumId>85</AlbumId>
+    <Title>As Canções de Eu Tu Eles</Title>
+  </Album>
+  <Album>
+    <AlbumId>86</AlbumId>
+    <Title>Quanta Gente Veio Ver (Live)</Title>
+  </Album>
+  <Album>
+    <AlbumId>87</AlbumId>
+    <Title>Quanta Gente Veio ver--Bônus De Carnaval</Title>
+  </Album>
+  <Album>
+    <AlbumId>88</AlbumId>
+    <Title>Faceless</Title>
+  </Album>
+  <Album>
+    <AlbumId>89</AlbumId>
+    <Title>American Idiot</Title>
+  </Album>
+  <Album>
+    <AlbumId>90</AlbumId>
+    <Title>Appetite for Destruction</Title>
+  </Album>
+  <Album>
+    <AlbumId>91</AlbumId>
+    <Title>Use Your Illusion I</Title>
+  </Album>
+  <Album>
+    <AlbumId>92</AlbumId>
+    <Title>Use Your Illusion II</Title>
+  </Album>
+  <Album>
+    <AlbumId>93</AlbumId>
+    <Title>Blue Moods</Title>
+  </Album>
+  <Album>
+    <AlbumId>94</AlbumId>
+    <Title>A Matter of Life and Death</Title>
+  </Album>
+  <Album>
+    <AlbumId>95</AlbumId>
+    <Title>A Real Dead One</Title>
+  </Album>
+  <Album>
+    <AlbumId>96</AlbumId>
+    <Title>A Real Live One</Title>
+  </Album>
+  <Album>
+    <AlbumId>97</AlbumId>
+    <Title>Brave New World</Title>
+  </Album>
+  <Album>
+    <AlbumId>98</AlbumId>
+    <Title>Dance Of Death</Title>
+  </Album>
+  <Album>
+    <AlbumId>99</AlbumId>
+    <Title>Fear Of The Dark</Title>
+  </Album>
+  <Album>
+    <AlbumId>100</AlbumId>
+    <Title>Iron Maiden</Title>
+  </Album>
+  <Album>
+    <AlbumId>101</AlbumId>
+    <Title>Killers</Title>
+  </Album>
+  <Album>
+    <AlbumId>102</AlbumId>
+    <Title>Live After Death</Title>
+  </Album>
+  <Album>
+    <AlbumId>103</AlbumId>
+    <Title>Live At Donington 1992 (Disc 1)</Title>
+  </Album>
+  <Album>
+    <AlbumId>104</AlbumId>
+    <Title>Live At Donington 1992 (Disc 2)</Title>
+  </Album>
+  <Album>
+    <AlbumId>105</AlbumId>
+    <Title>No Prayer For The Dying</Title>
+  </Album>
+  <Album>
+    <AlbumId>106</AlbumId>
+    <Title>Piece Of Mind</Title>
+  </Album>
+  <Album>
+    <AlbumId>107</AlbumId>
+    <Title>Powerslave</Title>
+  </Album>
+  <Album>
+    <AlbumId>108</AlbumId>
+    <Title>Rock In Rio [CD1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>109</AlbumId>
+    <Title>Rock In Rio [CD2]</Title>
+  </Album>
+  <Album>
+    <AlbumId>110</AlbumId>
+    <Title>Seventh Son of a Seventh Son</Title>
+  </Album>
+  <Album>
+    <AlbumId>111</AlbumId>
+    <Title>Somewhere in Time</Title>
+  </Album>
+  <Album>
+    <AlbumId>112</AlbumId>
+    <Title>The Number of The Beast</Title>
+  </Album>
+  <Album>
+    <AlbumId>113</AlbumId>
+    <Title>The X Factor</Title>
+  </Album>
+  <Album>
+    <AlbumId>114</AlbumId>
+    <Title>Virtual XI</Title>
+  </Album>
+  <Album>
+    <AlbumId>115</AlbumId>
+    <Title>Sex Machine</Title>
+  </Album>
+  <Album>
+    <AlbumId>116</AlbumId>
+    <Title>Emergency On Planet Earth</Title>
+  </Album>
+  <Album>
+    <AlbumId>117</AlbumId>
+    <Title>Synkronized</Title>
+  </Album>
+  <Album>
+    <AlbumId>118</AlbumId>
+    <Title>The Return Of The Space Cowboy</Title>
+  </Album>
+  <Album>
+    <AlbumId>119</AlbumId>
+    <Title>Get Born</Title>
+  </Album>
+  <Album>
+    <AlbumId>120</AlbumId>
+    <Title>Are You Experienced?</Title>
+  </Album>
+  <Album>
+    <AlbumId>121</AlbumId>
+    <Title>Surfing with the Alien (Remastered)</Title>
+  </Album>
+  <Album>
+    <AlbumId>122</AlbumId>
+    <Title>Jorge Ben Jor 25 Anos</Title>
+  </Album>
+  <Album>
+    <AlbumId>123</AlbumId>
+    <Title>Jota Quest-1995</Title>
+  </Album>
+  <Album>
+    <AlbumId>124</AlbumId>
+    <Title>Cafezinho</Title>
+  </Album>
+  <Album>
+    <AlbumId>125</AlbumId>
+    <Title>Living After Midnight</Title>
+  </Album>
+  <Album>
+    <AlbumId>126</AlbumId>
+    <Title>Unplugged [Live]</Title>
+  </Album>
+  <Album>
+    <AlbumId>127</AlbumId>
+    <Title>BBC Sessions [Disc 2] [Live]</Title>
+  </Album>
+  <Album>
+    <AlbumId>128</AlbumId>
+    <Title>Coda</Title>
+  </Album>
+  <Album>
+    <AlbumId>129</AlbumId>
+    <Title>Houses Of The Holy</Title>
+  </Album>
+  <Album>
+    <AlbumId>130</AlbumId>
+    <Title>In Through The Out Door</Title>
+  </Album>
+  <Album>
+    <AlbumId>131</AlbumId>
+    <Title>IV</Title>
+  </Album>
+  <Album>
+    <AlbumId>132</AlbumId>
+    <Title>Led Zeppelin I</Title>
+  </Album>
+  <Album>
+    <AlbumId>133</AlbumId>
+    <Title>Led Zeppelin II</Title>
+  </Album>
+  <Album>
+    <AlbumId>134</AlbumId>
+    <Title>Led Zeppelin III</Title>
+  </Album>
+  <Album>
+    <AlbumId>135</AlbumId>
+    <Title>Physical Graffiti [Disc 2]</Title>
+  </Album>
+  <Album>
+    <AlbumId>136</AlbumId>
+    <Title>Presence</Title>
+  </Album>
+  <Album>
+    <AlbumId>137</AlbumId>
+    <Title>The Song Remains The Same (Disc 1)</Title>
+  </Album>
+  <Album>
+    <AlbumId>138</AlbumId>
+    <Title>The Song Remains The Same (Disc 2)</Title>
+  </Album>
+  <Album>
+    <AlbumId>139</AlbumId>
+    <Title>A TempestadeTempestade Ou O Livro Dos Dias</Title>
+  </Album>
+  <Album>
+    <AlbumId>140</AlbumId>
+    <Title>Mais Do Mesmo</Title>
+  </Album>
+  <Album>
+    <AlbumId>141</AlbumId>
+    <Title>Greatest Hits</Title>
+  </Album>
+  <Album>
+    <AlbumId>142</AlbumId>
+    <Title>Lulu Santos - RCA 100 Anos De Música - Álbum 01</Title>
+  </Album>
+  <Album>
+    <AlbumId>143</AlbumId>
+    <Title>Lulu Santos - RCA 100 Anos De Música - Álbum 02</Title>
+  </Album>
+  <Album>
+    <AlbumId>144</AlbumId>
+    <Title>Misplaced Childhood</Title>
+  </Album>
+  <Album>
+    <AlbumId>145</AlbumId>
+    <Title>Barulhinho Bom</Title>
+  </Album>
+  <Album>
+    <AlbumId>146</AlbumId>
+    <Title>Seek And Shall Find: More Of The Best (1963-1981)</Title>
+  </Album>
+  <Album>
+    <AlbumId>147</AlbumId>
+    <Title>The Best Of Men At Work</Title>
+  </Album>
+  <Album>
+    <AlbumId>148</AlbumId>
+    <Title>Black Album</Title>
+  </Album>
+  <Album>
+    <AlbumId>149</AlbumId>
+    <Title>Garage Inc. (Disc 2)</Title>
+  </Album>
+  <Album>
+    <AlbumId>150</AlbumId>
+    <Title>Kill 'Em All</Title>
+  </Album>
+  <Album>
+    <AlbumId>151</AlbumId>
+    <Title>Load</Title>
+  </Album>
+  <Album>
+    <AlbumId>152</AlbumId>
+    <Title>Master Of Puppets</Title>
+  </Album>
+  <Album>
+    <AlbumId>153</AlbumId>
+    <Title>ReLoad</Title>
+  </Album>
+  <Album>
+    <AlbumId>154</AlbumId>
+    <Title>Ride The Lightning</Title>
+  </Album>
+  <Album>
+    <AlbumId>155</AlbumId>
+    <Title>St. Anger</Title>
+  </Album>
+  <Album>
+    <AlbumId>156</AlbumId>
+    <Title>...And Justice For All</Title>
+  </Album>
+  <Album>
+    <AlbumId>157</AlbumId>
+    <Title>Miles Ahead</Title>
+  </Album>
+  <Album>
+    <AlbumId>158</AlbumId>
+    <Title>Milton Nascimento Ao Vivo</Title>
+  </Album>
+  <Album>
+    <AlbumId>159</AlbumId>
+    <Title>Minas</Title>
+  </Album>
+  <Album>
+    <AlbumId>160</AlbumId>
+    <Title>Ace Of Spades</Title>
+  </Album>
+  <Album>
+    <AlbumId>161</AlbumId>
+    <Title>Demorou...</Title>
+  </Album>
+  <Album>
+    <AlbumId>162</AlbumId>
+    <Title>Motley Crue Greatest Hits</Title>
+  </Album>
+  <Album>
+    <AlbumId>163</AlbumId>
+    <Title>From The Muddy Banks Of The Wishkah [Live]</Title>
+  </Album>
+  <Album>
+    <AlbumId>164</AlbumId>
+    <Title>Nevermind</Title>
+  </Album>
+  <Album>
+    <AlbumId>165</AlbumId>
+    <Title>Compositores</Title>
+  </Album>
+  <Album>
+    <AlbumId>166</AlbumId>
+    <Title>Olodum</Title>
+  </Album>
+  <Album>
+    <AlbumId>167</AlbumId>
+    <Title>Acústico MTV</Title>
+  </Album>
+  <Album>
+    <AlbumId>168</AlbumId>
+    <Title>Arquivo II</Title>
+  </Album>
+  <Album>
+    <AlbumId>169</AlbumId>
+    <Title>Arquivo Os Paralamas Do Sucesso</Title>
+  </Album>
+  <Album>
+    <AlbumId>170</AlbumId>
+    <Title>Bark at the Moon (Remastered)</Title>
+  </Album>
+  <Album>
+    <AlbumId>171</AlbumId>
+    <Title>Blizzard of Ozz</Title>
+  </Album>
+  <Album>
+    <AlbumId>172</AlbumId>
+    <Title>Diary of a Madman (Remastered)</Title>
+  </Album>
+  <Album>
+    <AlbumId>173</AlbumId>
+    <Title>No More Tears (Remastered)</Title>
+  </Album>
+  <Album>
+    <AlbumId>174</AlbumId>
+    <Title>Tribute</Title>
+  </Album>
+  <Album>
+    <AlbumId>175</AlbumId>
+    <Title>Walking Into Clarksdale</Title>
+  </Album>
+  <Album>
+    <AlbumId>176</AlbumId>
+    <Title>Original Soundtracks 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>177</AlbumId>
+    <Title>The Beast Live</Title>
+  </Album>
+  <Album>
+    <AlbumId>178</AlbumId>
+    <Title>Live On Two Legs [Live]</Title>
+  </Album>
+  <Album>
+    <AlbumId>179</AlbumId>
+    <Title>Pearl Jam</Title>
+  </Album>
+  <Album>
+    <AlbumId>180</AlbumId>
+    <Title>Riot Act</Title>
+  </Album>
+  <Album>
+    <AlbumId>181</AlbumId>
+    <Title>Ten</Title>
+  </Album>
+  <Album>
+    <AlbumId>182</AlbumId>
+    <Title>Vs.</Title>
+  </Album>
+  <Album>
+    <AlbumId>183</AlbumId>
+    <Title>Dark Side Of The Moon</Title>
+  </Album>
+  <Album>
+    <AlbumId>184</AlbumId>
+    <Title>Os Cães Ladram Mas A Caravana Não Pára</Title>
+  </Album>
+  <Album>
+    <AlbumId>185</AlbumId>
+    <Title>Greatest Hits I</Title>
+  </Album>
+  <Album>
+    <AlbumId>186</AlbumId>
+    <Title>News Of The World</Title>
+  </Album>
+  <Album>
+    <AlbumId>187</AlbumId>
+    <Title>Out Of Time</Title>
+  </Album>
+  <Album>
+    <AlbumId>188</AlbumId>
+    <Title>Green</Title>
+  </Album>
+  <Album>
+    <AlbumId>189</AlbumId>
+    <Title>New Adventures In Hi-Fi</Title>
+  </Album>
+  <Album>
+    <AlbumId>190</AlbumId>
+    <Title>The Best Of R.E.M.: The IRS Years</Title>
+  </Album>
+  <Album>
+    <AlbumId>191</AlbumId>
+    <Title>Cesta Básica</Title>
+  </Album>
+  <Album>
+    <AlbumId>192</AlbumId>
+    <Title>Raul Seixas</Title>
+  </Album>
+  <Album>
+    <AlbumId>193</AlbumId>
+    <Title>Blood Sugar Sex Magik</Title>
+  </Album>
+  <Album>
+    <AlbumId>194</AlbumId>
+    <Title>By The Way</Title>
+  </Album>
+  <Album>
+    <AlbumId>195</AlbumId>
+    <Title>Californication</Title>
+  </Album>
+  <Album>
+    <AlbumId>196</AlbumId>
+    <Title>Retrospective I (1974-1980)</Title>
+  </Album>
+  <Album>
+    <AlbumId>197</AlbumId>
+    <Title>Santana - As Years Go By</Title>
+  </Album>
+  <Album>
+    <AlbumId>198</AlbumId>
+    <Title>Santana Live</Title>
+  </Album>
+  <Album>
+    <AlbumId>199</AlbumId>
+    <Title>Maquinarama</Title>
+  </Album>
+  <Album>
+    <AlbumId>200</AlbumId>
+    <Title>O Samba Poconé</Title>
+  </Album>
+  <Album>
+    <AlbumId>201</AlbumId>
+    <Title>Judas 0: B-Sides and Rarities</Title>
+  </Album>
+  <Album>
+    <AlbumId>202</AlbumId>
+    <Title>Rotten Apples: Greatest Hits</Title>
+  </Album>
+  <Album>
+    <AlbumId>203</AlbumId>
+    <Title>A-Sides</Title>
+  </Album>
+  <Album>
+    <AlbumId>204</AlbumId>
+    <Title>Morning Dance</Title>
+  </Album>
+  <Album>
+    <AlbumId>205</AlbumId>
+    <Title>In Step</Title>
+  </Album>
+  <Album>
+    <AlbumId>206</AlbumId>
+    <Title>Core</Title>
+  </Album>
+  <Album>
+    <AlbumId>207</AlbumId>
+    <Title>Mezmerize</Title>
+  </Album>
+  <Album>
+    <AlbumId>208</AlbumId>
+    <Title>[1997] Black Light Syndrome</Title>
+  </Album>
+  <Album>
+    <AlbumId>209</AlbumId>
+    <Title>Live [Disc 1]</Title>
+  </Album>
+  <Album>
+    <AlbumId>210</AlbumId>
+    <Title>Live [Disc 2]</Title>
+  </Album>
+  <Album>
+    <AlbumId>211</AlbumId>
+    <Title>The Singles</Title>
+  </Album>
+  <Album>
+    <AlbumId>212</AlbumId>
+    <Title>Beyond Good And Evil</Title>
+  </Album>
+  <Album>
+    <AlbumId>213</AlbumId>
+    <Title>Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers Sinners) [UK]</Title>
+  </Album>
+  <Album>
+    <AlbumId>214</AlbumId>
+    <Title>The Doors</Title>
+  </Album>
+  <Album>
+    <AlbumId>215</AlbumId>
+    <Title>The Police Greatest Hits</Title>
+  </Album>
+  <Album>
+    <AlbumId>216</AlbumId>
+    <Title>Hot Rocks, 1964-1971 (Disc 1)</Title>
+  </Album>
+  <Album>
+    <AlbumId>217</AlbumId>
+    <Title>No Security</Title>
+  </Album>
+  <Album>
+    <AlbumId>218</AlbumId>
+    <Title>Voodoo Lounge</Title>
+  </Album>
+  <Album>
+    <AlbumId>219</AlbumId>
+    <Title>Tangents</Title>
+  </Album>
+  <Album>
+    <AlbumId>220</AlbumId>
+    <Title>Transmission</Title>
+  </Album>
+  <Album>
+    <AlbumId>221</AlbumId>
+    <Title>My Generation - The Very Best Of The Who</Title>
+  </Album>
+  <Album>
+    <AlbumId>222</AlbumId>
+    <Title>Serie Sem Limite (Disc 1)</Title>
+  </Album>
+  <Album>
+    <AlbumId>223</AlbumId>
+    <Title>Serie Sem Limite (Disc 2)</Title>
+  </Album>
+  <Album>
+    <AlbumId>224</AlbumId>
+    <Title>Acústico</Title>
+  </Album>
+  <Album>
+    <AlbumId>225</AlbumId>
+    <Title>Volume Dois</Title>
+  </Album>
+  <Album>
+    <AlbumId>226</AlbumId>
+    <Title>Battlestar Galactica: The Story So Far</Title>
+  </Album>
+  <Album>
+    <AlbumId>227</AlbumId>
+    <Title>Battlestar Galactica, Season 3</Title>
+  </Album>
+  <Album>
+    <AlbumId>228</AlbumId>
+    <Title>Heroes, Season 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>229</AlbumId>
+    <Title>Lost, Season 3</Title>
+  </Album>
+  <Album>
+    <AlbumId>230</AlbumId>
+    <Title>Lost, Season 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>231</AlbumId>
+    <Title>Lost, Season 2</Title>
+  </Album>
+  <Album>
+    <AlbumId>232</AlbumId>
+    <Title>Achtung Baby</Title>
+  </Album>
+  <Album>
+    <AlbumId>233</AlbumId>
+    <Title>All That You Can't Leave Behind</Title>
+  </Album>
+  <Album>
+    <AlbumId>234</AlbumId>
+    <Title>B-Sides 1980-1990</Title>
+  </Album>
+  <Album>
+    <AlbumId>235</AlbumId>
+    <Title>How To Dismantle An Atomic Bomb</Title>
+  </Album>
+  <Album>
+    <AlbumId>236</AlbumId>
+    <Title>Pop</Title>
+  </Album>
+  <Album>
+    <AlbumId>237</AlbumId>
+    <Title>Rattle And Hum</Title>
+  </Album>
+  <Album>
+    <AlbumId>238</AlbumId>
+    <Title>The Best Of 1980-1990</Title>
+  </Album>
+  <Album>
+    <AlbumId>239</AlbumId>
+    <Title>War</Title>
+  </Album>
+  <Album>
+    <AlbumId>240</AlbumId>
+    <Title>Zooropa</Title>
+  </Album>
+  <Album>
+    <AlbumId>241</AlbumId>
+    <Title>UB40 The Best Of - Volume Two [UK]</Title>
+  </Album>
+  <Album>
+    <AlbumId>242</AlbumId>
+    <Title>Diver Down</Title>
+  </Album>
+  <Album>
+    <AlbumId>243</AlbumId>
+    <Title>The Best Of Van Halen, Vol. I</Title>
+  </Album>
+  <Album>
+    <AlbumId>244</AlbumId>
+    <Title>Van Halen</Title>
+  </Album>
+  <Album>
+    <AlbumId>245</AlbumId>
+    <Title>Van Halen III</Title>
+  </Album>
+  <Album>
+    <AlbumId>246</AlbumId>
+    <Title>Contraband</Title>
+  </Album>
+  <Album>
+    <AlbumId>247</AlbumId>
+    <Title>Vinicius De Moraes</Title>
+  </Album>
+  <Album>
+    <AlbumId>248</AlbumId>
+    <Title>Ao Vivo [IMPORT]</Title>
+  </Album>
+  <Album>
+    <AlbumId>249</AlbumId>
+    <Title>The Office, Season 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>250</AlbumId>
+    <Title>The Office, Season 2</Title>
+  </Album>
+  <Album>
+    <AlbumId>251</AlbumId>
+    <Title>The Office, Season 3</Title>
+  </Album>
+  <Album>
+    <AlbumId>252</AlbumId>
+    <Title>Un-Led-Ed</Title>
+  </Album>
+  <Album>
+    <AlbumId>253</AlbumId>
+    <Title>Battlestar Galactica (Classic), Season 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>254</AlbumId>
+    <Title>Aquaman</Title>
+  </Album>
+  <Album>
+    <AlbumId>255</AlbumId>
+    <Title>Instant Karma: The Amnesty International Campaign to Save Darfur</Title>
+  </Album>
+  <Album>
+    <AlbumId>256</AlbumId>
+    <Title>Speak of the Devil</Title>
+  </Album>
+  <Album>
+    <AlbumId>257</AlbumId>
+    <Title>20th Century Masters - The Millennium Collection: The Best of Scorpions</Title>
+  </Album>
+  <Album>
+    <AlbumId>258</AlbumId>
+    <Title>House of Pain</Title>
+  </Album>
+  <Album>
+    <AlbumId>259</AlbumId>
+    <Title>Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro</Title>
+  </Album>
+  <Album>
+    <AlbumId>260</AlbumId>
+    <Title>Cake: B-Sides and Rarities</Title>
+  </Album>
+  <Album>
+    <AlbumId>261</AlbumId>
+    <Title>LOST, Season 4</Title>
+  </Album>
+  <Album>
+    <AlbumId>262</AlbumId>
+    <Title>Quiet Songs</Title>
+  </Album>
+  <Album>
+    <AlbumId>263</AlbumId>
+    <Title>Muso Ko</Title>
+  </Album>
+  <Album>
+    <AlbumId>264</AlbumId>
+    <Title>Realize</Title>
+  </Album>
+  <Album>
+    <AlbumId>265</AlbumId>
+    <Title>Every Kind of Light</Title>
+  </Album>
+  <Album>
+    <AlbumId>266</AlbumId>
+    <Title>Duos II</Title>
+  </Album>
+  <Album>
+    <AlbumId>267</AlbumId>
+    <Title>Worlds</Title>
+  </Album>
+  <Album>
+    <AlbumId>268</AlbumId>
+    <Title>The Best of Beethoven</Title>
+  </Album>
+  <Album>
+    <AlbumId>269</AlbumId>
+    <Title>Temple of the Dog</Title>
+  </Album>
+  <Album>
+    <AlbumId>270</AlbumId>
+    <Title>Carry On</Title>
+  </Album>
+  <Album>
+    <AlbumId>271</AlbumId>
+    <Title>Revelations</Title>
+  </Album>
+  <Album>
+    <AlbumId>272</AlbumId>
+    <Title>Adorate Deum: Gregorian Chant from the Proper of the Mass</Title>
+  </Album>
+  <Album>
+    <AlbumId>273</AlbumId>
+    <Title>Allegri: Miserere</Title>
+  </Album>
+  <Album>
+    <AlbumId>274</AlbumId>
+    <Title>Pachelbel: Canon and Gigue</Title>
+  </Album>
+  <Album>
+    <AlbumId>275</AlbumId>
+    <Title>Vivaldi: The Four Seasons</Title>
+  </Album>
+  <Album>
+    <AlbumId>276</AlbumId>
+    <Title>Bach: Violin Concertos</Title>
+  </Album>
+  <Album>
+    <AlbumId>277</AlbumId>
+    <Title>Bach: Goldberg Variations</Title>
+  </Album>
+  <Album>
+    <AlbumId>278</AlbumId>
+    <Title>Bach: The Cello Suites</Title>
+  </Album>
+  <Album>
+    <AlbumId>279</AlbumId>
+    <Title>Handel: The Messiah (Highlights)</Title>
+  </Album>
+  <Album>
+    <AlbumId>280</AlbumId>
+    <Title>The World of Classical Favourites</Title>
+  </Album>
+  <Album>
+    <AlbumId>281</AlbumId>
+    <Title>Sir Neville Marriner: A Celebration</Title>
+  </Album>
+  <Album>
+    <AlbumId>282</AlbumId>
+    <Title>Mozart: Wind Concertos</Title>
+  </Album>
+  <Album>
+    <AlbumId>283</AlbumId>
+    <Title>Haydn: Symphonies 99 - 104</Title>
+  </Album>
+  <Album>
+    <AlbumId>284</AlbumId>
+    <Title>Beethoven: Symhonies Nos. 5 and 6</Title>
+  </Album>
+  <Album>
+    <AlbumId>285</AlbumId>
+    <Title>A Soprano Inspired</Title>
+  </Album>
+  <Album>
+    <AlbumId>286</AlbumId>
+    <Title>Great Opera Choruses</Title>
+  </Album>
+  <Album>
+    <AlbumId>287</AlbumId>
+    <Title>Wagner: Favourite Overtures</Title>
+  </Album>
+  <Album>
+    <AlbumId>288</AlbumId>
+    <Title>Fauré: Requiem, Ravel: Pavane and Others</Title>
+  </Album>
+  <Album>
+    <AlbumId>289</AlbumId>
+    <Title>Tchaikovsky: The Nutcracker</Title>
+  </Album>
+  <Album>
+    <AlbumId>290</AlbumId>
+    <Title>The Last Night of the Proms</Title>
+  </Album>
+  <Album>
+    <AlbumId>291</AlbumId>
+    <Title>Puccini: Madama Butterfly - Highlights</Title>
+  </Album>
+  <Album>
+    <AlbumId>292</AlbumId>
+    <Title>Holst: The Planets, Op. 32 and Vaughan Williams: Fantasies</Title>
+  </Album>
+  <Album>
+    <AlbumId>293</AlbumId>
+    <Title>Pavarotti's Opera Made Easy</Title>
+  </Album>
+  <Album>
+    <AlbumId>294</AlbumId>
+    <Title>Great Performances - Barber's Adagio and Other Romantic Favorites for Strings</Title>
+  </Album>
+  <Album>
+    <AlbumId>295</AlbumId>
+    <Title>Carmina Burana</Title>
+  </Album>
+  <Album>
+    <AlbumId>296</AlbumId>
+    <Title>A Copland Celebration, Vol. I</Title>
+  </Album>
+  <Album>
+    <AlbumId>297</AlbumId>
+    <Title>Bach: Toccata and Fugue in D Minor</Title>
+  </Album>
+  <Album>
+    <AlbumId>298</AlbumId>
+    <Title>Prokofiev: Symphony No.1</Title>
+  </Album>
+  <Album>
+    <AlbumId>299</AlbumId>
+    <Title>Scheherazade</Title>
+  </Album>
+  <Album>
+    <AlbumId>300</AlbumId>
+    <Title>Bach: The Brandenburg Concertos</Title>
+  </Album>
+  <Album>
+    <AlbumId>301</AlbumId>
+    <Title>Chopin: Piano Concertos Nos. 1 and 2</Title>
+  </Album>
+  <Album>
+    <AlbumId>302</AlbumId>
+    <Title>Mascagni: Cavalleria Rusticana</Title>
+  </Album>
+  <Album>
+    <AlbumId>303</AlbumId>
+    <Title>Sibelius: Finlandia</Title>
+  </Album>
+  <Album>
+    <AlbumId>304</AlbumId>
+    <Title>Beethoven Piano Sonatas: Moonlight and Pastorale</Title>
+  </Album>
+  <Album>
+    <AlbumId>305</AlbumId>
+    <Title>Great Recordings of the Century - Mahler: Das Lied von der Erde</Title>
+  </Album>
+  <Album>
+    <AlbumId>306</AlbumId>
+    <Title>Elgar: Cello Concerto and Vaughan Williams: Fantasias</Title>
+  </Album>
+  <Album>
+    <AlbumId>307</AlbumId>
+    <Title>Adams, John: The Chairman Dances</Title>
+  </Album>
+  <Album>
+    <AlbumId>308</AlbumId>
+    <Title>Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien and Beethoven: Wellington's Victory</Title>
+  </Album>
+  <Album>
+    <AlbumId>309</AlbumId>
+    <Title>Palestrina: Missa Papae Marcelli and Allegri: Miserere</Title>
+  </Album>
+  <Album>
+    <AlbumId>310</AlbumId>
+    <Title>Prokofiev: Romeo and Juliet</Title>
+  </Album>
+  <Album>
+    <AlbumId>311</AlbumId>
+    <Title>Strauss: Waltzes</Title>
+  </Album>
+  <Album>
+    <AlbumId>312</AlbumId>
+    <Title>Berlioz: Symphonie Fantastique</Title>
+  </Album>
+  <Album>
+    <AlbumId>313</AlbumId>
+    <Title>Bizet: Carmen Highlights</Title>
+  </Album>
+  <Album>
+    <AlbumId>314</AlbumId>
+    <Title>English Renaissance</Title>
+  </Album>
+  <Album>
+    <AlbumId>315</AlbumId>
+    <Title>Handel: Music for the Royal Fireworks (Original Version 1749)</Title>
+  </Album>
+  <Album>
+    <AlbumId>316</AlbumId>
+    <Title>Grieg: Peer Gynt Suites and Sibelius: Pelléas et Mélisande</Title>
+  </Album>
+  <Album>
+    <AlbumId>317</AlbumId>
+    <Title>Mozart Gala: Famous Arias</Title>
+  </Album>
+  <Album>
+    <AlbumId>318</AlbumId>
+    <Title>SCRIABIN: Vers la flamme</Title>
+  </Album>
+  <Album>
+    <AlbumId>319</AlbumId>
+    <Title>Armada: Music from the Courts of England and Spain</Title>
+  </Album>
+  <Album>
+    <AlbumId>320</AlbumId>
+    <Title>Mozart: Symphonies Nos. 40 and 41</Title>
+  </Album>
+  <Album>
+    <AlbumId>321</AlbumId>
+    <Title>Back to Black</Title>
+  </Album>
+  <Album>
+    <AlbumId>322</AlbumId>
+    <Title>Frank</Title>
+  </Album>
+  <Album>
+    <AlbumId>323</AlbumId>
+    <Title>Carried to Dust (Bonus Track Version)</Title>
+  </Album>
+  <Album>
+    <AlbumId>324</AlbumId>
+    <Title>Beethoven: Symphony No. 6 'Pastoral' Etc.</Title>
+  </Album>
+  <Album>
+    <AlbumId>325</AlbumId>
+    <Title>Bartok: Violin and Viola Concertos</Title>
+  </Album>
+  <Album>
+    <AlbumId>326</AlbumId>
+    <Title>Mendelssohn: A Midsummer Night's Dream</Title>
+  </Album>
+  <Album>
+    <AlbumId>327</AlbumId>
+    <Title>Bach: Orchestral Suites Nos. 1 - 4</Title>
+  </Album>
+  <Album>
+    <AlbumId>328</AlbumId>
+    <Title>Charpentier: Divertissements, Airs and Concerts</Title>
+  </Album>
+  <Album>
+    <AlbumId>329</AlbumId>
+    <Title>South American Getaway</Title>
+  </Album>
+  <Album>
+    <AlbumId>330</AlbumId>
+    <Title>Górecki: Symphony No. 3</Title>
+  </Album>
+  <Album>
+    <AlbumId>331</AlbumId>
+    <Title>Purcell: The Fairy Queen</Title>
+  </Album>
+  <Album>
+    <AlbumId>332</AlbumId>
+    <Title>The Ultimate Relexation Album</Title>
+  </Album>
+  <Album>
+    <AlbumId>333</AlbumId>
+    <Title>Purcell: Music for the Queen Mary</Title>
+  </Album>
+  <Album>
+    <AlbumId>334</AlbumId>
+    <Title>Weill: The Seven Deadly Sins</Title>
+  </Album>
+  <Album>
+    <AlbumId>335</AlbumId>
+    <Title>J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major and Prelude, Fugue and Allegro</Title>
+  </Album>
+  <Album>
+    <AlbumId>336</AlbumId>
+    <Title>Prokofiev: Symphony No.5 and Stravinksy: Le Sacre Du Printemps</Title>
+  </Album>
+  <Album>
+    <AlbumId>337</AlbumId>
+    <Title>Szymanowski: Piano Works, Vol. 1</Title>
+  </Album>
+  <Album>
+    <AlbumId>338</AlbumId>
+    <Title>Nielsen: The Six Symphonies</Title>
+  </Album>
+  <Album>
+    <AlbumId>339</AlbumId>
+    <Title>Great Recordings of the Century: Paganini's 24 Caprices</Title>
+  </Album>
+  <Album>
+    <AlbumId>340</AlbumId>
+    <Title>Liszt - 12 Études D'Execution Transcendante</Title>
+  </Album>
+  <Album>
+    <AlbumId>341</AlbumId>
+    <Title>Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder</Title>
+  </Album>
+  <Album>
+    <AlbumId>342</AlbumId>
+    <Title>Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3</Title>
+  </Album>
+  <Album>
+    <AlbumId>343</AlbumId>
+    <Title>Respighi:Pines of Rome</Title>
+  </Album>
+  <Album>
+    <AlbumId>344</AlbumId>
+    <Title>Schubert: The Late String Quartets and String Quintet (3 CD's)</Title>
+  </Album>
+  <Album>
+    <AlbumId>345</AlbumId>
+    <Title>Monteverdi: L'Orfeo</Title>
+  </Album>
+  <Album>
+    <AlbumId>346</AlbumId>
+    <Title>Mozart: Chamber Music</Title>
+  </Album>
+  <Album>
+    <AlbumId>347</AlbumId>
+    <Title>Koyaanisqatsi (Soundtrack from the Motion Picture)</Title>
+  </Album>
+</AllAlbums>

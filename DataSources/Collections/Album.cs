@@ -9,10 +9,13 @@ namespace DataSources
         public int AlbumId { get; set; }
         public string Title { get; set; }
 
-        public Album(int albumId, string title)
+        public int ArtistId { get; set; }
+
+        public Album(int albumId, string title, int artistId)
         {
             AlbumId = albumId;
             Title = title;
+            ArtistId = artistId;
         }
     }
 }

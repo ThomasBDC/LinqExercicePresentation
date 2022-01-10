@@ -13,8 +13,32 @@ namespace LinqExercicePresentation
     {
         static void Main(string[] args)
         {
-            Exercice3OrderMethod();
+            Exercice4GroupBy();
         }
+
+        static void Exercice4GroupBy()
+        {
+            var malist = ListAlbumsData.ListAlbums;
+
+            Console.WriteLine("Ecrire votre recherche ...");
+            var recherche = Console.ReadLine();
+
+            var request = from album in malist
+                          where album.Title.Contains(recherche, StringComparison.InvariantCultureIgnoreCase)
+                          orderby album.Title ascending, album.AlbumId descending
+                          group album by album.ArtistId;
+
+            foreach (var artiste in request)
+            {
+                Console.WriteLine(artiste.Key);
+                foreach (var alb in artiste)
+                {
+                    Console.WriteLine($"Album n°{alb.AlbumId} : {alb.Title}");
+                }
+                Console.WriteLine();
+            }
+        }
+
         static void Exercice3OrderMethod()
         {
             var maliste = ListAlbumsData.ListAlbums;
@@ -45,9 +69,12 @@ namespace LinqExercicePresentation
                 from album in maliste
                 where album.Title.Contains(recherche, StringComparison.InvariantCultureIgnoreCase)
                 orderby album.Title ascending, album.AlbumId descending 
-                select $"Album n°{album.AlbumId} : {album.Title}";
+                select $"Album n°{album.AlbumId} : {album.Title}"
+                    into affichagealbum
+                where affichagealbum.Length < 30
+                select affichagealbum;
 
-            foreach (var alb in rechercheQuery)
+            foreach (var alb in rechercheQuery.DefaultIfEmpty("Pas de résultat"))
             {
                 Console.WriteLine(alb);
             }

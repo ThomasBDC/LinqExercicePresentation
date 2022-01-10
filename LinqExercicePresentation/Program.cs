@@ -13,12 +13,62 @@ namespace LinqExercicePresentation
     {
         static void Main(string[] args)
         {
-            Exercice2Where();
+            Exercice3OrderMethod();
+        }
+        static void Exercice3OrderMethod()
+        {
+            var maliste = ListAlbumsData.ListAlbums;
+
+            Console.WriteLine("Ecrire votre recherche ...");
+            var recherche = Console.ReadLine();
+
+            var marequeteMethode =maliste
+                    .Where(alb => alb.Title.Contains(recherche, StringComparison.InvariantCultureIgnoreCase))
+                    .OrderBy(alb => alb.Title)
+                    .ThenByDescending(alb => alb.AlbumId)
+                    .Select(alb => $"Album n°{alb.AlbumId} : {alb.Title}");
+
+            foreach (var alb in marequeteMethode)
+            {
+                Console.WriteLine(alb);
+            }
         }
 
+        static void Exercice3OrderRequete()
+        {
+            var maliste = ListAlbumsData.ListAlbums;
+
+            Console.WriteLine("Ecrire votre recherche ...");
+            var recherche = Console.ReadLine();
+
+            var rechercheQuery =
+                from album in maliste
+                where album.Title.Contains(recherche, StringComparison.InvariantCultureIgnoreCase)
+                orderby album.Title ascending, album.AlbumId descending 
+                select $"Album n°{album.AlbumId} : {album.Title}";
+
+            foreach (var alb in rechercheQuery)
+            {
+                Console.WriteLine(alb);
+            }
+        }
+        
         static void Exercice2Where()
         {
+            var maliste = ListAlbumsData.ListAlbums;
 
+            Console.WriteLine("Ecrire votre recherche ...");
+            var recherche = Console.ReadLine();
+
+            var rechercheQuery =
+                from album in maliste
+                where album.Title.Contains(recherche, StringComparison.InvariantCultureIgnoreCase)
+                select $"Album n°{album.AlbumId} : {album.Title}";
+
+            foreach (var alb in rechercheQuery)
+            {
+                Console.WriteLine(alb);
+            }
         }
 
         static void Exercice1Select()

@@ -13,10 +13,25 @@ namespace LinqExercicePresentation
     {
         static void Main(string[] args)
         {
-            Exercice5Join();
+            ExerciceJSon();
         }
 
+        static void ExerciceJSon()
+        {
+            var myJsonAlbum = JObject.Parse(File.ReadAllText($@"{Directory.GetCurrentDirectory()}/Json/Albums.json"));
 
+            Console.WriteLine("Ecrire votre recherche ...");
+            var recherche = Console.ReadLine();
+
+            var marequete = from album in myJsonAlbum["AllAlbums"]
+                            where album["Title"].ToString().Contains(recherche, StringComparison.InvariantCultureIgnoreCase)
+                            select new Album(Convert.ToInt16(album[nameof(Album.AlbumId)]), album[nameof(Album.Title)].ToString(), 88);
+
+            foreach (var album in marequete)
+            {
+                Console.WriteLine(album.Title);
+            }
+        }
 
         static void Exercice5Join()
         {

@@ -13,7 +13,42 @@ namespace LinqExercicePresentation
     {
         static void Main(string[] args)
         {
-            Exercice4GroupBy();
+            Exercice5Join();
+        }
+
+
+
+        static void Exercice5Join()
+        {
+            //sources de données 
+            var listAlbums = ListAlbumsData.ListAlbums;
+            var listArtists = ListArtistsData.ListArtists;
+
+            Console.WriteLine("Ecrire votre recherche ...");
+            var recherche = Console.ReadLine();
+
+            var maRequete =
+                from album in listAlbums
+                where album.Title.Contains(recherche, StringComparison.InvariantCultureIgnoreCase)
+                join artist in listArtists on album.ArtistId equals artist.ArtistId
+                select new
+                {
+                    artist = artist,
+                    album = album
+                }
+                into allInformations
+                orderby allInformations.album.Title ascending, allInformations.artist.Name
+                group allInformations by allInformations.artist;
+
+            foreach (var artiste in maRequete)
+            {
+                Console.WriteLine($"Artiste n°{artiste.Key.ArtistId} : {artiste.Key.Name}");
+                foreach (var objetArtisteAlbum in artiste)
+                {
+                    Console.WriteLine($"Album n°{objetArtisteAlbum.album.AlbumId} : {objetArtisteAlbum.album.Title}");
+                }
+                Console.WriteLine("");
+            }
         }
 
         static void Exercice4GroupBy()

@@ -4,6 +4,8 @@ using System.Linq;
 using System.IO;
 using System.Xml.Linq;
 using Newtonsoft.Json.Linq;
+using System.Collections.Generic;
+using System.Security.Cryptography;
 //Vous avez déjà toutes les dépendances pour les exercices :)
 
 namespace LinqExercicePresentation
@@ -12,8 +14,59 @@ namespace LinqExercicePresentation
     {
         static void Main(string[] args)
         {
-            //Ici votre code ! 
-            //Bon courage :)
+            var allData = ListAlbumsData.ListAlbums;
+
+            Console.WriteLine("En quoi voulez-vous transformer votre src de données ?");
+            Console.WriteLine("1 - JSON");
+            Console.WriteLine("2 - XML");
+            Console.WriteLine("3 - TXT");
+
+            string reponse = Console.ReadLine();
+
+            switch(reponse) {
+                case "1":
+                    PrintJson(allData);
+                    break;
+                case "2":
+                    PrintXml(allData);
+                    break;
+                case "3":
+                    PrintTxt(allData);
+                    break;
+            }
+        }
+
+        static void PrintTxt(List<Album> allData)
+        {
+            var albumTxt = from alb in allData
+                           select $"{alb.AlbumId} : {alb.Title}";
+
+            foreach(var album in albumTxt) {
+                Console.WriteLine(album);
+            }
+        }
+
+        static void PrintXml(List<Album> allData)
+        {
+            var XML = new XElement("allAlbums", from alb in allData
+                           select new XElement("Album", 
+                                new XElement("AlbumId", alb.AlbumId),
+                                new XElement("Title", alb.Title)
+                                )
+                           );
+            Console.Write(XML.ToString());
+        }
+
+        static void PrintJson(List<Album> allData)
+        {
+            var Json = new JObject(new JProperty("allAlbums", 
+                                    from alb in allData
+                                    select new JObject(
+                                            new JProperty("AlbumId", alb.AlbumId),
+                                            new JProperty("Title", alb.Title)
+                                        )
+                           ));
+            Console.Write(Json.ToString()); 
         }
     }
 }

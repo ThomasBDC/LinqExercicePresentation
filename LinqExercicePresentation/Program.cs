@@ -40,10 +40,12 @@ namespace LinqExercicePresentation
         {
             var albumTxt = from alb in allData
                            select $"{alb.AlbumId} : {alb.Title}";
-
+            string allAlbums = "";
             foreach(var album in albumTxt) {
-                Console.WriteLine(album);
+                allAlbums += album + "\n";
             }
+            Console.WriteLine(allAlbums);
+            File.WriteAllText(@"albums.txt", allAlbums);
         }
 
         static void PrintXml(List<Album> allData)
@@ -54,6 +56,7 @@ namespace LinqExercicePresentation
                                 new XElement("Title", alb.Title)
                                 )
                            );
+            File.WriteAllText(@"albums.xml", XML.ToString());
             Console.Write(XML.ToString());
         }
 
@@ -66,6 +69,7 @@ namespace LinqExercicePresentation
                                             new JProperty("Title", alb.Title)
                                         )
                            ));
+            File.WriteAllText(@"albums.json", Json.ToString());
             Console.Write(Json.ToString()); 
         }
     }
